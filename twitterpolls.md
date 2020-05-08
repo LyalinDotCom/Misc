@@ -1,4 +1,4 @@
-**2020*
+**2020**
 
 * May 2020 | Hey developers, doing a #COVID19 related survey. Did your company delay or cancel plans to build a brand new app (web, mobile, desktop, etc) due to the crises until the situation stabilizes?
 https://twitter.com/LyalinDotCom/status/1257408111360405504
