@@ -24,4 +24,5 @@ https://twitter.com/LyalinDotCom/status/1087805813178085377
 
 **2018**
 
-* [https://twitter.com/LyalinDotCom/status/1055248914016661504](Oct 2018) | Looking for some data around our MSDN Magazine, if you have a moment take a vote? thank you folks! Are you a subscriber of the physical copies of MSDN Magazine? Example: https://msdn.microsoft.com/en-us/magazine/1317mag.aspx
+* Oct 2018 | Looking for some data around our MSDN Magazine, if you have a moment take a vote? thank you folks! Are you a subscriber of the physical copies of MSDN Magazine? Example: https://msdn.microsoft.com/en-us/magazine/1317mag.aspx
+https://twitter.com/LyalinDotCom/status/1055248914016661504
