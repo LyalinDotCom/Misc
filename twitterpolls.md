@@ -21,3 +21,7 @@ https://twitter.com/LyalinDotCom/status/1188550200115073024
 
 * Jan 2019 | Hey friends! do you work on WPF applications today for your day or side job? or maybe do you have plans to start one? I'd love to know about it and I might ask you some questions. Please vote + reply if you don't mind me saying hi later.
 https://twitter.com/LyalinDotCom/status/1087805813178085377
+
+**2018**
+
+* [https://twitter.com/LyalinDotCom/status/1055248914016661504](Oct 2018) | Looking for some data around our MSDN Magazine, if you have a moment take a vote? thank you folks! Are you a subscriber of the physical copies of MSDN Magazine? Example: https://msdn.microsoft.com/en-us/magazine/1317mag.aspx
